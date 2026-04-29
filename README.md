@@ -1,11 +1,6 @@
 # LangChain
-Here’s a simple, clean `README.md` you can use for your repository:
 
 ---
-
-# LangChain Beginner Project
-
-This repository contains a simple introduction to building your first agent using LangChain. It is designed for beginners who want to understand how agents work and how to interact with language models programmatically.
 
 ## 📁 Files
 
@@ -59,14 +54,6 @@ pip install langchain openai
 
 * Make sure to set your API keys (e.g., OpenAI) before running the notebook.
 * This is a beginner-friendly example and can be extended for more advanced use cases.
-
-## 🤝 Contributing
-
-Feel free to fork this repo and improve the examples or add new ones!
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
